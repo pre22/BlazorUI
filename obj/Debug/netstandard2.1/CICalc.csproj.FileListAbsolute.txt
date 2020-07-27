@@ -178,7 +178,6 @@ C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\CICalc.RazorTargetAssemblyInfo.cache
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\CICalc.csproj.CopyComplete
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\BDEQ_K1q1im6upfOpZ2PiDLgZgsUFdJsCvElpb_7d2M=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\kbBTlwiTOTXbsKNz9mcGGaOSXh3vl93ng0eTu4ncsOU=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\Ci5pW8-9DINlwMcTYgJU_y-_TQ0pgKpamZsWUQZDpus=.hash
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\CICalc.dll.gz
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,8 @@ C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\staticwebassets\CICalc.StaticWebAssets.xml
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
+C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CompoundInterest.razor.g.cs
+C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\Razor\Pages\CompoundInterest.razor.g.cs
+C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\ud5hl7uOYVYtIobfI5JJIojqZ-SkVC_FZWsz3l68XBA=.hash
+C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\kpTcRcp6XeUipzzzu3BmxZsuOwixkbzQCimF9YD0FwY=.hash
+C:\Users\EMMA\Desktop\C# Project\Blazor\PlannerApp\CICalc\obj\Debug\netstandard2.1\integrity\nyyC2L4sHJA91GJi2msux3MBwiA1JjitEkCoOZGy5II=.hash
